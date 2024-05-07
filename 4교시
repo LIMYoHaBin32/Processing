@@ -1,4 +1,4 @@
-##아두이노 코드
+*아두이노 코드
 #define LINE_DETECT_WHITE 1
 #define NO_LINE_SENSOR 5
 
@@ -49,7 +49,7 @@ void loop() {
 }
 
 
-##프로세싱 코드
+*프로세싱 코드
 import processing.serial.*;
 Serial port;
 
